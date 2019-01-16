@@ -10,6 +10,6 @@ The ESnet Security team is [publishing a vulnerability](vulnerabilities/01152019
 
 ## History
 
-Jan 15, 2019: Published [RSSH vulnerability](vulnerabilities/01152019_rssh)
+Jan 15, 2019: Published [RSSH vulnerability](vulnerabilities/01152019_rssh).
 
 Jan 14, 2019: Published [SANS Holiday Hack](https://software.es.net/sans-holiday-hack-2018/) report.
